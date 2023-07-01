@@ -1,6 +1,6 @@
 ### new proposed method
 #setwd("~/Documents/paper_clustering")
-rm(list=ls())
+
 library(mclust)
 #library(RColorBrewer)
 library(NMF)
